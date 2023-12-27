@@ -20,5 +20,10 @@ The frontend is made with the help of streamlit and below are the snapshots of t
 
 ![image](https://github.com/GEETMAINI/Movie-Recomendation/assets/89035675/7e912456-18ad-4287-92d5-db62698ddcaf)
 
+5.We get the desired output ie. Top 5 recommended movies
+
+![image](https://github.com/GEETMAINI/Movie-Recomendation/assets/89035675/c4fbd2b7-515b-4831-b907-9ae11266c9aa)
+
+
 
 
